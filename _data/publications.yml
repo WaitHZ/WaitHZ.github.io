@@ -1,0 +1,11 @@
+main:
+
+  - title: "GW-MoE: Resolving Uncertainty in MoE Router with Global Workspace Theory"
+    authors: <strong>Haoze Wu</strong>#, Zihan Qiu#, Zili Wang, Hang Zhao*, Jie Fu*
+    conference: arxiv
+    pdf: https://arxiv.org/pdf/2406.12375.pdf
+    code: https://github.com/WaitHZ/GW-MoE
+    image: ./assets/img/gw-moe.png
+    notes: preprint
+    conference_short: arxiv
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
