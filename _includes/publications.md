@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<p style="font-size: 12px; color: #808080; margin-top：0; margin-bottom: 0;"># indicates equal contributions, * indicates corresponding author.</p>
+<p style="font-size: 16px; color: #808080; margin-top：0; margin-bottom: 0;"># indicates equal contributions, * indicates corresponding author.</p>
 
 {% for link in site.data.publications.main %}
 
