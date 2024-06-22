@@ -11,8 +11,6 @@ I am a third-year undergraduate student at [Zhejiang University](https://www.zju
 - **LLMs:** Mixture-of-Experts(MoE).
 - **Generative Models:** Diffusion, Flow Match.
 
-I will share some of my research notes on Notion, and you are welcome to visit my [Note Space](https://waithz.notion.site/Haoze-s-Note-Space-f9daa74f85ac4ceea35ee2a395e99e89).
-
 ## News
 
 - **[June. 2024]** Our paper GW-MoE is now available on arXiv!
